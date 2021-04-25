@@ -1,0 +1,8 @@
+2021-04-25 20:12:00.393831 - open file time Odata2019File.csv
+2021-04-25 20:13:52.913916 - all data was inserted
+Time for inserting data - 0:01:52.520085
+
+2021-04-25 20:13:52.913916 - open file time Odata2020File.csv
+2021-04-25 20:16:22.748318 - all data was inserted
+Time for inserting data - 0:02:29.834402
+
